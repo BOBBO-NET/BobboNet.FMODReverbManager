@@ -1,5 +1,5 @@
 
-namespace BobboNet.Engine
+namespace BobboNet.Audio
 {
     [System.Serializable]
     public class ReverbSettings

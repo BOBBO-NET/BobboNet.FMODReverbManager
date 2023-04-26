@@ -1,7 +1,7 @@
 using UnityEngine;
 using Zenject;
 
-namespace BobboNet.Engine
+namespace BobboNet.Audio
 {
     [CreateAssetMenu(fileName = "ReverbManagerInstaller", menuName = "Installers/ReverbManagerInstaller")]
     public class ReverbManagerInstaller : ScriptableObjectInstaller<ReverbManagerInstaller>
